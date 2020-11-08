@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/mark">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="你我的益达"
+        android:textColor="#9F6B6F"
+        android:textSize="24sp"
+        android:background="#CDD7B5"/>
+
+    <include layout="@layout/recycler" />
+
+
+</LinearLayout>

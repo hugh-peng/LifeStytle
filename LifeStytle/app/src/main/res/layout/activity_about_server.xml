@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="开发：yaofeng"
+            android:textSize="24sp" />
+    </androidx.cardview.widget.CardView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/font_color" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:id="@+id/tv_blog"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="个人博客：fengcrush.cn"
+            android:clickable="true"
+            android:textSize="24sp" />
+    </androidx.cardview.widget.CardView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/font_color" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="软件版本：V1.0beta"
+            android:textSize="24sp" />
+    </androidx.cardview.widget.CardView>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/font_color" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/font_color" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="40dp" >
+
+        <Switch
+            android:id="@+id/ser_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="开启音乐" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:gravity="center"
+            android:textSize="12sp"
+            android:text="享受一段音乐，放松一天" />
+    </androidx.cardview.widget.CardView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="使用事项"
+            android:textSize="21sp"
+            android:textColor="#39A0D6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1.本软件快递查询使用阿里云市场提供的API，默认一年内的查询次数只有100次。\n2.每日一句，天气预报的调用次数不限。\n3.本软件只用于学习交流，禁止任何商业用途。\n4.作者联系邮箱：pengfonty0713@foxmail.com"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="开源项目"
+            android:textSize="24sp"
+            android:textColor="#39A0D6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="com.squareup.okhttp3:okhttp:4.6.0\nandroidx.cardview:cardview:1.0.0\nandroidx.recyclerview:recyclerview:1.1.0\ncom.google.code.gson:gson:2.8.6\ncom.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.31\nandroidx.room:room-runtime:$room_version"
+            android:textSize="18sp"/>
+    </LinearLayout>
+
+
+</LinearLayout>

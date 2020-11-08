@@ -1,0 +1,166 @@
+[
+  {
+    "com": "顺丰",
+    "no": "SF"
+  },
+  {
+    "com": "中通",
+    "no": "ZTO"
+  },
+  {
+    "com": "申通",
+    "no": "STO"
+  },
+  {
+    "com": "圆通",
+    "no": "YTO"
+  },
+  {
+    "com": "韵达",
+    "no": "YD"
+  },
+  {
+    "com": "百世快递",
+    "no": "BTKD"
+  },
+  {
+    "com": "百世快运",
+    "no": "BTKY"
+  },
+  {
+    "com": "天天",
+    "no": "TTKD"
+  },
+  {
+    "com": "德邦",
+    "no": "DEPPON"
+  },
+  {
+    "com": "EMS",
+    "no": "EMS"
+  },
+  {
+    "com": "京东",
+    "no": "JD"
+  },
+  {
+    "com": "邮政",
+    "no": "YZPY"
+  },
+  {
+    "com": "快捷",
+    "no": "KJKD"
+  },
+  {
+    "com": "急宅送",
+    "no": "ZJS"
+  },
+  {
+    "com": "全峰",
+    "no": "QFKD"
+  },
+  {
+    "com": "如风达",
+    "no": "RFD"
+  },
+  {
+    "com": "万象",
+    "no": "WXWL"
+  },
+  {
+    "com": "中邮",
+    "no": "ZYWL"
+  },
+  {
+    "com": "中通快运",
+    "no": "ZTOKY"
+  },
+  {
+    "com": "USPS美国邮政",
+    "no": "USPS"
+  },
+  {
+    "com": "苏宁",
+    "no": "SUNING"
+  },
+  {
+    "com": "FEDEX邦联国内",
+    "no": "FEDEX"
+  },
+  {
+    "com": "FEDEX邦联国际",
+    "no": "FEDEX_GJ"
+  },
+  {
+    "com": "国通",
+    "no": "GTO"
+  },
+  {
+    "com": "佳吉",
+    "no": "JJKY"
+  },
+  {
+    "com": "天地华宇",
+    "no": "HOAU"
+  },
+  {
+    "com": "嘉里大通",
+    "no": "JLDT"
+  },
+  {
+    "com": "京广",
+    "no": "JGSD"
+  },
+  {
+    "com": "速尔",
+    "no": "SURE"
+  },
+  {
+    "com": "全一",
+    "no": "QYKD"
+  },
+  {
+    "com": "优速",
+    "no": "UCE"
+  },
+  {
+    "com": "亚风快运",
+    "no": "AIRFEX"
+  },
+  {
+    "com": "安能物流",
+    "no": "ANE"
+  },
+  {
+    "com": "跨越速运",
+    "no": "KYSY"
+  },
+  {
+    "com": "COE东方快递",
+    "no": "COE"
+  },
+  {
+    "com": "D速物流",
+    "no": "DSWL"
+  },
+  {
+    "com": "加运美",
+    "no": "JYM"
+  },
+  {
+    "com": "龙邦",
+    "no": "LBKD"
+  },
+  {
+    "com": "品骏",
+    "no": "PJKD"
+  },
+  {
+    "com": "中铁快运",
+    "no": "ZTKY"
+  },
+  {
+    "com": "中铁物流",
+    "no": "ZTWL"
+  }
+]
